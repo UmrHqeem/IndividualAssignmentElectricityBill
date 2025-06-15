@@ -16,7 +16,6 @@ public class AboutActivity extends AppCompatActivity {
         aboutText.setText("Name: Umar Haqeem Bin Kasmadi \n" +
                 "Student ID: 2024902873\n" +
                 "Course: ICT602 / Mobile App Development\n" +
-                " 2025 Timed\n" +
                 "GitHub Link : https://github.com/UmrHqeem/IndividualAssignmentElectricityBill.git");
 
         aboutText.setMovementMethod(LinkMovementMethod.getInstance()); // Make link clickable
